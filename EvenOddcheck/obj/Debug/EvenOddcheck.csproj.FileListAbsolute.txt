@@ -1,0 +1,10 @@
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\bin\Debug\EvenOddcheck.exe.config
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\bin\Debug\EvenOddcheck.exe
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\bin\Debug\EvenOddcheck.pdb
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.csprojAssemblyReference.cache
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.Form1.resources
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.Properties.Resources.resources
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.csproj.GenerateResource.cache
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.csproj.CoreCompileInputs.cache
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.exe
+C:\Users\raza.jaff\source\repos\EvenOddcheck\EvenOddcheck\obj\Debug\EvenOddcheck.pdb
